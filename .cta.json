@@ -1,0 +1,23 @@
+{
+  "projectName": "parking",
+  "mode": "file-router",
+  "typescript": true,
+  "packageManager": "npm",
+  "includeExamples": true,
+  "tailwind": true,
+  "addOnOptions": {},
+  "envVarValues": {
+    "CONVEX_DEPLOYMENT": "dev:spotted-mosquito-826",
+    "VITE_CONVEX_URL": "https://spotted-mosquito-826.convex.cloud"
+  },
+  "git": false,
+  "install": true,
+  "routerOnly": false,
+  "version": 1,
+  "framework": "react",
+  "chosenAddOns": [
+    "cloudflare",
+    "convex",
+    "shadcn"
+  ]
+}
